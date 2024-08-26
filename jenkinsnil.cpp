@@ -12,7 +12,6 @@ int main()
         "Run", 
         "from", 
         "OlukayodeDevs", 
-        "and the C++ extension!",
         "",
         "LinkedIn: https://www.linkedin.com/in/arindeolukayode/",
         "Email: arindeolukayode@gmail.com"
