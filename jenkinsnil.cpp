@@ -10,7 +10,7 @@ int main()
         "Quick", 
         "C++", 
         "Run", 
-        "from", 
+        "by", 
         "OlukayodeDevs", 
         "",
         "LinkedIn: https://www.linkedin.com/in/arindeolukayode/",
